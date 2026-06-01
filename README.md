@@ -69,7 +69,7 @@ jp-ad-creative.md ←──── jp-copywriting.md    │
 ## オプション：コンテキストエンジニアリングスキルの導入
 
 以下の3ファイルは **必須ではありません** が、導入することでClaude の動作精度が向上する場面があります。  
-出典：[magicalyellow2/Agent-Skills-for-Context-Engineering](https://github.com/magicalyellow2/Agent-Skills-for-Context-Engineering)
+出典：[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)（MIT License・作者：Muratcan Koylan）
 
 ### `context-fundamentals`
 **何に有効か：**  
@@ -255,4 +255,4 @@ Claudeのプロジェクトナレッジにアップロードする場合の推�
 
 作成：日本市場向けマーケティング・広告デザイン用  
 ベース：[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)  
-オプション参照：[magicalyellow2/Agent-Skills-for-Context-Engineering](https://github.com/magicalyellow2/Agent-Skills-for-Context-Engineering)
+オプション参照：[muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)（MIT License）
